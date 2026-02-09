@@ -16,7 +16,7 @@ const new_another_array  = new_array.flat(Infinity)
 // console.log(new_another_array);
 
 // console.log(Array.isArray("anishk"))
-// console.log(Array.from("hitesh"));
+ console.log(Array.from("hitesh"));
 // console.log(Array.from({name:"gupta"})); // intersesting case
 
 let score1 = 100
